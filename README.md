@@ -4,7 +4,7 @@
 
 
 
-## UI Screenshots
+## UI Screenshots here
 
 ![App Screenshot](https://github.com/Sammy970/DBMS-Project/blob/main/readmeImages/Image1.jpg)
 
